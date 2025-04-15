@@ -1,0 +1,9 @@
+[submodule "Colorization/BasicPBC"]
+	path = Colorization/BasicPBC
+	url = https://github.com/ykdai/BasicPBC.git
+[submodule "IntermediateFrameGeneration/ECCV2022-RIFE"]
+	path = IntermediateFrameGeneration/ECCV2022-RIFE
+	url = https://github.com/hzwer/ECCV2022-RIFE.git
+[submodule "LineExtract/Anime2Sketch"]
+	path = LineExtract/Anime2Sketch
+	url = https://github.com/Mukosame/Anime2Sketch.git
